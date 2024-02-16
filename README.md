@@ -10,7 +10,7 @@ Min Theme for Windows Terminal.
 ![preview-light](https://i.imgur.com/ipFVusf.png)
 </div>
 
-## Usage
+## Installation
 1. Launch Windows Terminal
 2. Open the **Settings** panel (<kbd>Ctrl + ,</kbd>)
 3. Select **Open JSON file** at bottom left corner (<kbd>Ctrl + Shift + ,</kbd>)
