@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/icon.png" width="140" />
+    <img src="https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/icon.png" width="200" />
 </div>
 
 # min-windows-terminal
