@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/icon.png" width="200" />
 
-# Min Windows Terminal Theme
+# Min Windows Terminal
 
 Min Theme for Windows Terminal.
 
