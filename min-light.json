@@ -1,0 +1,27 @@
+{
+  "name": "Min Light",
+
+  "cursorColor": "#000000",
+  "selectionBackground": "#F2F2F2",
+
+  "background": "#FFFFFF",
+  "foreground": "#212121",
+  
+  "black": "#212121",
+  "red": "#D32F2F",
+  "green": "#77CC00",
+  "yellow": "#F29718",
+  "blue": "#6871FF",
+  "purple": "#9966CC",
+  "cyan": "#4DBF99",
+  "white": "#C7C7C7",
+
+  "brightBlack": "#A1A1A1",
+  "brightRed": "#D32F2F",
+  "brightBlue": "#6871FF",
+  "brightGreen": "#A3D900",
+  "brightYellow": "#E7C547",
+  "brightPurple": "#9966CC",
+  "brightCyan": "#57D9AD",
+  "brightWhite": "#C7C7C7",
+}

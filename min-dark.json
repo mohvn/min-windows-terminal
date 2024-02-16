@@ -1,0 +1,27 @@
+{
+  "name": "Min",
+
+  "cursorColor": "#E0E0E0",
+  "selectionBackground": "#363636",
+
+  "background": "#212121",
+  "foreground": "#C0C0C0",
+
+  "black": "#1A1A1A",
+  "red": "#FF7A84",
+  "green": "#67AB91",
+  "yellow": "#FFAB70",
+  "blue": "#79B8FF",
+  "purple": "#B392F0",
+  "cyan": "#7CAFC2",
+  "white": "#E0E0E0",
+
+  "brightBlack": "#262626",
+  "brightRed": "#FF7A84",
+  "brightGreen": "#67AB91",
+  "brightYellow": "#FFAB70",
+  "brightBlue": "#79B8FF",
+  "brightPurple": "#B392F0",
+  "brightCyan": "#7CAFC2",
+  "brightWhite": "#FFFFFF",
+}
