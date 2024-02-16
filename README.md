@@ -5,9 +5,9 @@
 
 Min Theme for Windows Terminal.
 
-![preview-dark](https://i.imgur.com/OW40Rmq.png)
+![preview-dark](https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/screenshot-dark.png)
 
-![preview-light](https://i.imgur.com/ipFVusf.png)
+![preview-light](https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/screenshot-light.png)
 </div>
 
 ## Installation
