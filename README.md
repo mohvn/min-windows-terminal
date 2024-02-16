@@ -34,3 +34,8 @@ Min Theme for Windows Terminal.
 
 
 Based on [Min Theme](https://github.com/miguelsolorio/min-theme) for VSCode
+
+## License
+
+[MIT License](LICENSE) 
+
