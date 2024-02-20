@@ -33,7 +33,7 @@ Min Theme for Windows Terminal.
 10. Click on **Save**, enjoy!
 
 
-Based on [Min Theme](https://github.com/miguelsolorio/min-theme) for VSCode
+Based on [Min Theme](https://github.com/miguelsolorio/min-theme) for VSCode.
 
 ## License
 
