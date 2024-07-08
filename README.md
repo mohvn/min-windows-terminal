@@ -2,12 +2,11 @@
     <img src="https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/icon.png" width="200" />
 
 # Min Windows Terminal
-
 Min Theme for Windows Terminal.
+![Sem nome (2000 x 751 px) (1)](https://github.com/mdxv/min-windows-terminal/assets/57570197/b632f25c-3ddc-4374-8ae1-c55c350d0fd6)
 
-![preview-dark](https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/screenshot-dark.png)
 
-![preview-light](https://raw.githubusercontent.com/mdxv/min-windows-terminal/main/screenshot-light.png)
+
 </div>
 
 ## Installation
