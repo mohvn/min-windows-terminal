@@ -3,7 +3,9 @@
 
 # Min Windows Terminal
 Min Theme for Windows Terminal.
-![Sem nome (2000 x 751 px) (1)](https://github.com/mdxv/min-windows-terminal/assets/57570197/b632f25c-3ddc-4374-8ae1-c55c350d0fd6)
+![Frame 2(1)](https://github.com/user-attachments/assets/b7a29e6f-1dd3-4dab-aaf3-80a66c9ff939)
+
+
 
 
 
